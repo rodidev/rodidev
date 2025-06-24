@@ -1,9 +1,9 @@
-<h1 align="center"><b>Bienvenido a mi Github</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
+<h1 align="center"><b>Bienvenido a mi Github</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 
 <p align="center">
-  <img src="banner-github4.png" alt="Banner de saludo" width="600"/>
+  <img src="assets/images/banner-github4.png" width="600"/>
 </p>
 
 <p align="center">
@@ -18,6 +18,9 @@
   </a>
 </p>
 
+## 👨‍💻 Full-Stack Developer | Flutter · FastAPI
+Desarrollador full-stack con experiencia en **Flutter Web** y **FastAPI**, enfocado en crear soluciones web modernas, responsivas y escalables. Combino una sólida base técnica con sensibilidad por la experiencia del usuario y la claridad estructural.
+
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGh1bWhweGFlYWlzNnQ4NmpxbjE1aHQxeHZtbWw3ajhycXVlNjVybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WrNWPknO6rajK4Yx7n/giphy.gif" width="150"/>
 </div>
@@ -26,40 +29,58 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <!-- Lenguajes -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" title="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" title="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" title="Dart"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" title="Fastapi"/>
+          
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
 
   <!-- Bases de datos -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" title="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
   
   <!-- DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" title="Postman"/>
+          
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="GitHub"/>
+  
+  <!-- Otros -->
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
+          
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="40" title="MatLab"/>
+  
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" title="Linux"/>
+          
+
 </div>
 
-## 🔹 Frontend – Flutter Web
-- Interfaces responsivas, adaptables y fluidas
-- Formularios complejos con flujos tipo Stepper
+## 🔹 Frontend – Flutter
+- Flutter Web + GetX
+- Filtros dinámicos, multiselección, diseño responsivo
 - Filtros con debounce y multiselección avanzada
-- Componentes personalizadas.
-- Gestión de estado y rutas con GetX
+- Componentes personalizados y UI centrada en el usuario
 
 ## 🔹 Backend – FastAPI (Python)
-- APIs RESTful limpias y seguras
-- Paginación avanzada, manejo de errores HTTP
-- Automatización de procesos backend (batch por Excel con `pandas`)
-- Validaciones estructuradas con `pydantic` y `SQLAlchemy`
-- Generación de credenciales y relaciones de usuario seguras
+- FastAPI, RESTful APIs, paginación, manejo de errores HTTP
+- Automatización de procesos backend batch por Excel con pandas.
+- Testing con pytest para servicios, lógica y flujos
+- SQLAlchemy, pydantic, generación de credenciales seguras
 
 ## 🔹 Bases de datos y entornos
-- PostgreSQL y SQL Server
+- PostgreSQL · SQL Server · MongoDB
 - Optimización de consultas relacionales
-- Herramientas como **DBeaver**
-- Desarrollo sobre **WSL en Windows**
-- Git y GitHub (flujo profesional de ramas)
+- Git · GitHub · WSL en Windows · CI/CD
 
