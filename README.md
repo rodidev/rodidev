@@ -7,23 +7,35 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-perfil/">
+  <a href="https://www.linkedin.com/in/rodid51/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://discord.com/users/tu-user-id">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://instagram.com/tu-usuario">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
 </p>
+<div>
+  <img align="right" 
+       src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGh1bWhweGFlYWlzNnQ4NmpxbjE1aHQxeHZtbWw3ajhycXVlNjVybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WrNWPknO6rajK4Yx7n/giphy.gif" 
+       alt="GIF animado" 
+       width="150" 
+       style="float: right; margin: 90px 0px 15px 15px;">
 
-## 👨‍💻 Full-Stack Developer | Flutter · FastAPI
-Desarrollador full-stack con experiencia en **Flutter Web** y **FastAPI**, enfocado en crear soluciones web modernas, responsivas y escalables. Combino una sólida base técnica con sensibilidad por la experiencia del usuario y la claridad estructural.
+  <h2 style="border-bottom: 2px solid #ccc; padding-bottom: 5px; display: inline-block;">
+    👨‍💻 Full-Stack Developer | Flutter · FastAPI
+  </h2>
 
-<div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGh1bWhweGFlYWlzNnQ4NmpxbjE1aHQxeHZtbWw3ajhycXVlNjVybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WrNWPknO6rajK4Yx7n/giphy.gif" width="150"/>
+  <p>Soy desarrollador Full Stack con foco en Flutter y Python, especializado en construir soluciones que integran aplicaciones móviles y web con backends escalables. Tengo experiencia en el diseño de interfaces responsivas, manejo de flujos complejos, conocimiento técnico en diferentes manejadores de estado, y la integración con APIs REST/GraphQL desarrolladas en FastAPI.</p>
+
+  <p>En el backend, trabajo con PostgreSQL y SQL Server, aplicando modelado avanzado, consultas optimizadas y procesos ETL con pandas. También desarrollo dashboards interactivos y reportes dinámicos usando herramientas como Power BI, Streamlit y Plotly, conectando datos procesados con visualizaciones claras para la toma de decisiones.</p>
+
+  <p>He trabajado con entornos cloud con Azure  tanto en el despliegue y monitoreo de microservicios, gestión de logs y seguimiento de rendimiento en producción. Además, utilizo Docker y CI/CD para entornos reproducibles y colaborativos.</p>
+
+  <p>"Mi experiencia profesional incluye el desarrollo de backoffice y aplicaciones móviles en ecosistemas de seguridad de la industria minera, donde integré distintos servicios, aseguré la validación de flujos críticos mediante pruebas automatizadas y participé bajo metodologías ágiles."</p>
+
+  <br style="clear: both;" />
 </div>
+
 
 ## 🛠️ Mi Stack Tecnológico
 
@@ -33,17 +45,23 @@ Desarrollador full-stack con experiencia en **Flutter Web** y **FastAPI**, enfoc
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" title="Dart"/>
 
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" title="Fastapi"/>
-          
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" width="80" title="Flask"/>
+
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" width="80" title="Django"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="Javascript"/>
 
   <!-- Bases de datos -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" title="SQLServer"/>
   
   <!-- DevOps -->
 
@@ -63,24 +81,39 @@ Desarrollador full-stack con experiencia en **Flutter Web** y **FastAPI**, enfoc
   
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" title="Linux"/>
-          
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" title="Azure"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" title="Figma"/>
+  
 </div>
 
 ## 🔹 Frontend – Flutter
-- Flutter Web + GetX
-- Filtros dinámicos, multiselección, diseño responsivo
-- Filtros con debounce y multiselección avanzada
-- Componentes personalizados y UI centrada en el usuario
+- Desarrollo de aplicaciones móviles y web con Flutter.
+- Manejo avanzado de estado con Riverpod, Provider, BLoC y GetX.
+- Implementación de flujos complejos: filtros dinámicos, validaciones personalizadas, multiselección y debounce.
+- Creación de componentes personalizados y diseño de interfaces responsivas centradas en la experiencia del usuario.
 
 ## 🔹 Backend – FastAPI (Python)
-- FastAPI, RESTful APIs, paginación, manejo de errores HTTP
-- Automatización de procesos backend batch por Excel con pandas.
-- Testing con pytest para servicios, lógica y flujos
-- SQLAlchemy, pydantic, generación de credenciales seguras
+- Construcción de APIs RESTful con FastAPI, incluyendo paginación, validaciones y manejo robusto de errores HTTP.
+- Automatización de procesos ETL y carga masiva desde Excel utilizando pandas.
+- Pruebas unitarias e integración con pytest para garantizar la calidad de servicios y flujos críticos.
+- Modelado y validación de datos con SQLAlchemy y Pydantic, incluyendo generación segura de credenciales.
 
 ## 🔹 Bases de datos y entornos
-- PostgreSQL · SQL Server · MongoDB
-- Optimización de consultas relacionales
-- Git · GitHub · WSL en Windows · CI/CD
+- PostgreSQL · SQL Server · MongoDB.
+- Optimización y diseño de consultas en bases de datos relacionales.
+- Control de versiones con Git/GitHub, trabajo en entornos WSL (Linux en Windows) y flujos de CI/CD para despliegues continuos.
 
+
+<div style="display: flex; flex-direction: column; gap: 20px; margin: 50px 0;">
+  <!-- Widget de Estadísticas -->
+  <div style="flex: 1;">
+    [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rodidev&show_icons=true&theme=transparent)](https://github.com/rodidev)
+  </div>
+  
+  <!-- Widget de Lenguajes -->
+  <div style="flex: 1;">
+    [![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=rodidev&layout=compact&theme=transparent)](https://github.com/rodidev)
+  </div>
+</div>
